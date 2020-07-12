@@ -39,13 +39,15 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008109043</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two poor Russian people exchange letters of love, hope and fear.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In 1840s &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg the ageing copyist Makar Dievushkin is, with various degrees of subtlety, trying to woo Barbara Dobroselova, a young woman who has had a swift fall in fortunes. Told in alternating letters to each other, their past stories and current hopes play out in raw and personal detail, as the daily realities of an uncaring and expensive town take hold.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Poor Folk&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Fyodor Dostoevsky’s&lt;/a&gt; first novel and was written to try and cover his escalating debts from his expensive lifestyle and gambling addiction. Luckily for Dostoevsky, it was an immediate success when it was published in the &lt;i&gt;&lt;abbr&gt;St.&lt;/abbr&gt; Petersburg Collection&lt;/i&gt;, and the accolades from critics such as Belinsky and Herzen propelled him into the high echelons of Russian literary society. This edition is the 1915 translation by &lt;abbr&gt;C. J.&lt;/abbr&gt; Hogarth.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2302</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/poorfolkgambler00dost</dc:source>
+		<meta property="se:production-notes">One letter per chapter. As the letters didn’t originally have headings, new ones have been composed from the dateline and salutation (where available), then hidden with CSS.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Poor_Folk</meta>
