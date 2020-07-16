@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>t-027</code>
+			<reason>Typogrify wants to add a no-break space after Mr., but that conflicts with t-027. There’s no downside to having it though.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
