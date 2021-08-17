@@ -10,13 +10,13 @@ footer{
 	display: none;
 }
 
+section[epub|type~="z3998:letter"]{
+	margin-top: 20vh;
+}
+
 [epub|type~="se:letter.dateline"]{
 	font-style: italic;
 	text-align: right;
-}
-
-[epub|type~="chapter"] header{
-	margin-top: 4em;
 }
 
 [epub|type~="chapter"] header + p{
