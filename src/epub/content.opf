@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008109043</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Two poor Russian people exchange letters of love, hope and fear.</dc:abstract>
+		<meta property="schema:abstract">Two poor Russian people exchange letters of love, hope and fear.</meta>
 		<dc:description>
 			&lt;p&gt;In 1840s &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg the ageing copyist Makar Dievushkin is, with various degrees of subtlety, trying to woo Barbara Dobroselova, a young woman who has had a swift fall in fortunes. Told in alternating letters to each other, their past stories and current hopes play out in raw and personal detail, as the daily realities of an uncaring and expensive town take hold.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Poor Folk&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Fyodor Dostoevsky’s&lt;/a&gt; first novel and was written to try and cover his escalating debts from his expensive lifestyle and gambling addiction. Luckily for Dostoevsky, it was an immediate success when it was published in the &lt;i&gt;&lt;abbr&gt;St.&lt;/abbr&gt; Petersburg Collection&lt;/i&gt;, and the accolades from critics such as Belinsky and Herzen propelled him into the high echelons of Russian literary society. This edition is the 1915 translation by &lt;abbr&gt;C. J.&lt;/abbr&gt; Hogarth.&lt;/p&gt;
